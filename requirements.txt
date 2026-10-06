@@ -1,0 +1,13 @@
+# Raspberry Pi Zero 2W (Python 3)
+flask
+pyserial
+pynmea2
+adafruit-ads1x15
+smbus2
+Pillow
+spidev
+lgpio
+pybluez
+tflite-runtime
+# picamera2 is installed via apt: sudo apt install python3-picamera2
+# Coral Edge TPU runtime (pycoral) must be installed from coral.ai instructions
