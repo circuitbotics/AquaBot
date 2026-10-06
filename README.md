@@ -2,8 +2,7 @@
 > \*\*Clean Water, Safe Future\*\*
 > Team \*\*CircuitBotics\*\* · World Robot Olympiad (WRO) 2026 · Future Innovators – Senior · India 🇮🇳
 AquaBot is a low-cost autonomous boat that patrols a lake or pond, measures water quality, automatically corrects pH using onboard dosing pumps, detects floating garbage with AI, and uploads everything over GSM/GPRS to a Cloudflare Worker live dashboard — no WiFi needed.
-<!-- Replace with your best photo -->
-![AquaBot](aquabot.online)
+
 ---
 📌 Table of Contents
 Problem & Solution
